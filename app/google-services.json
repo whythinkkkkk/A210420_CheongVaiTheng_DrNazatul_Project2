@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96007055276",
+    "project_id": "ecomart-9f6f8",
+    "storage_bucket": "ecomart-9f6f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96007055276:android:de89a34849361224ac7c09",
+        "android_client_info": {
+          "package_name": "com.example.inventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEmMZVNbmbrdnbUlS_aFjmx4_J_6X8aAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
